@@ -1,3 +1,21 @@
+# Le langage Java
+---
+
+## Introduction
+
+Les caractéristiques du Langage Java :
+
+- il s'agit d'un langage **orienté objet**
+- il est *portable*
+- il est multithreadé
+
+## Documentation
+
+Lien vers la documentation officielle:[Documentation](https://www.linkedin.com/learning/decouvrir-markdown?u=123653769)
+
+
+
+
 # TP n°1
 
 ## Etapes du TP
